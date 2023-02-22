@@ -8,8 +8,8 @@ export const Header = () => {
             <div className="flex flex-wrap items-center justify-between p-4">
                 <div className="flex items-center">
                     <Link className="flex items-center" href="/">
-                            <Image src="/images/tophertech_logo.svg" width="100" height="100" alt="TopherTech Logo" />
-                            <span className="text-[#000000] font-bold text-2xl">TopherTech</span>
+                            <Image src="/images/colleureka_logo.svg" width="100" height="100" alt="TopherTech Logo" />
+                            <span className="text-[#000000] font-bold text-2xl">Colleureka!</span>
                     </Link>
                 </div>
             </div>
